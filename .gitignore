@@ -1,2 +1,4 @@
 data/
+
+# Notebook Checkpoints
 .ipynb_checkpoints/
